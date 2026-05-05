@@ -1,4 +1,4 @@
-# Hi there, I'm Aparna M G 👋
+# Hi, I'm Aparna M G 👋
 
 ### Python Developer | Django Developer | Data Analyst | Business Intelligence Enthusiast
 
