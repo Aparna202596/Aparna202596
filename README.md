@@ -1,4 +1,4 @@
-# Hi there, I'm Aparna Anand 👋
+# Hi there, I'm Aparna M G 👋
 
 ### Python Developer | Django Developer | Data Analyst | Business Intelligence Enthusiast
 
@@ -160,8 +160,8 @@ Previously worked in **Debt Recovery Operations**, where I developed strong skil
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparnamg2696@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparna-m-g-aa9aa5290)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 
 ---
