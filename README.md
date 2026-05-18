@@ -1,6 +1,6 @@
 # Hi, I'm Aparna M G 👋
 
-### Python Developer | Django Developer | Data Analyst | Business Intelligence Enthusiast
+### Python Developer | Django Developer | Data Analyst
 
 I'm a career-transitioning tech professional with a background in business operations, analytics, and process management — now focused on building impactful software and data-driven solutions.
 
